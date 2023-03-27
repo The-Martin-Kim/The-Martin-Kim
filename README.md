@@ -35,5 +35,5 @@
 </td></tr></table>  
 
 ## Github Stats  
-![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-Martin-Kim&count_private=true&show_icons=true&theme=shades-of-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Martin-Kim)
+![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-Martin-Kim&theme=shades-of-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Martin-Kim&langs_count=10)
